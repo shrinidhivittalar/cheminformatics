@@ -111,7 +111,7 @@ no second API call is made. `notes` says so explicitly on the reused row.
 
 ## Setup & run instructions
 
-1. Open `chemistry_db_intern_task.ipynb` in Google Colab or Jupyter.
+1. Open `dataCleaning.ipynb` in Google Colab or Jupyter.
 2. Run all cells top to bottom (Cell 1 installs `rdkit` and `requests`).
 3. `output.csv` is (re)generated from `input.csv` — no manual edits are made to
    any row after generation. Delete `output.csv` and re-run the notebook at any

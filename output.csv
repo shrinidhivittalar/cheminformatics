@@ -1,0 +1,16 @@
+compound_id,input_smiles,canonical_smiles,iupac_name,molecular_formula,exact_mass,inchikey,status,notes
+CMP-001,CCO,CCO,ethanol,C2H6O,46.0419,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SUCCESS,PubChem: IUPAC name resolved via InChIKey.
+CMP-002,CC(C)O,CC(C)O,propan-2-ol,C3H8O,60.0575,KFZMGEQAYNKOFK-UHFFFAOYSA-N,SUCCESS,PubChem: IUPAC name resolved via InChIKey.
+CMP-003,CC(=O)Oc1ccccc1C(=O)O,CC(=O)Oc1ccccc1C(=O)O,2-acetyloxybenzoic acid,C9H8O4,180.0423,BSYNRYMUTXBXSQ-UHFFFAOYSA-N,SUCCESS,PubChem: IUPAC name resolved via InChIKey.
+CMP-004,O=C(O)c1ccccc1O,O=C(O)c1ccccc1O,2-hydroxybenzoic acid,C7H6O3,138.0317,YGSDEFSMJLZEOE-UHFFFAOYSA-N,SUCCESS,PubChem: IUPAC name resolved via InChIKey.
+CMP-005,CCOC(=O)c1ccc(N)cc1,CCOC(=O)c1ccc(N)cc1,ethyl 4-aminobenzoate,C9H11NO2,165.079,BLFLLBZGZJTVJG-UHFFFAOYSA-N,SUCCESS,PubChem: IUPAC name resolved via InChIKey.
+CMP-006,CN(C)C(=O)c1ccccc1,CN(C)C(=O)c1ccccc1,"N,N-dimethylbenzamide",C9H11NO,149.0841,IMNDHOCGZLYMRO-UHFFFAOYSA-N,SUCCESS,PubChem: IUPAC name resolved via InChIKey.
+CMP-007,O=[N+]([O-])c1ccc(Cl)cc1,O=[N+]([O-])c1ccc(Cl)cc1,1-chloro-4-nitrobenzene,C6H4ClNO2,156.9931,CZGCEKJOLUNIFY-UHFFFAOYSA-N,SUCCESS,PubChem: IUPAC name resolved via InChIKey.
+CMP-008,CC(C)(C)OC(=O)N1CCCCC1,CC(C)(C)OC(=O)N1CCCCC1,tert-butyl piperidine-1-carboxylate,C10H19NO2,185.1416,RQCNHUCCQJMSRG-UHFFFAOYSA-N,SUCCESS,PubChem: IUPAC name resolved via InChIKey.
+CMP-009,CN1CCN(CC1)c1ccccc1,CN1CCN(c2ccccc2)CC1,1-methyl-4-phenylpiperazine,C11H16N2,176.1313,WQDDXVGJRSTLED-UHFFFAOYSA-N,SUCCESS,PubChem: IUPAC name resolved via InChIKey.
+CMP-010,CC(C)Cc1ccc(cc1)C(C)C(=O)O,CC(C)Cc1ccc(C(C)C(=O)O)cc1,2-[4-(2-methylpropyl)phenyl]propanoic acid,C13H18O2,206.1307,HEFNNWSXXWATRW-UHFFFAOYSA-N,SUCCESS,PubChem: IUPAC name resolved via InChIKey.
+CMP-011,C[C@H](O)C(=O)O,C[C@H](O)C(=O)O,(2S)-2-hydroxypropanoic acid,C3H6O3,90.0317,JVTAAEKCZFNVCJ-REOHCLBHSA-N,SUCCESS,PubChem: IUPAC name resolved via InChIKey.
+CMP-012,C1CCNC1,C1CCNC1,pyrrolidine,C4H9N,71.0735,RWRDLPDLKQPQOW-UHFFFAOYSA-N,SUCCESS,PubChem: IUPAC name resolved via InChIKey.
+CMP-013,[Na+].[O-]C(=O)c1ccccc1,O=C([O-])c1ccccc1.[Na+],sodium benzoate,C7H5NaO2,144.0187,WXMKPNITSTVMEF-UHFFFAOYSA-M,MULTI_COMPONENT,"Multiple components detected (e.g. salt/mixture); full structure preserved, not split. External lookup returned a name for this InChIKey; for a multi-component/disconnected structure this may not represent the entire combined structure — review recommended, no name was invented for the full structure."
+CMP-014,C1=CC=CC=C1C(,,,,,,INVALID_SMILES,RDKit could not process this SMILES: SMILES Parse Error: syntax error while parsing: C1=CC=CC=C1C( | SMILES Parse Error: check for mistakes around position 13: | C1=CC=CC=C1C( | ~~~~~~~~~~~~^ | SMILES Parse Error: Failed parsing SMILES 'C1=CC=CC=C1C(' for input: 'C1=CC=CC=C1C('
+CMP-015,CCO,CCO,ethanol,C2H6O,46.0419,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,SUCCESS,"Duplicate structure; reused cached PubChem result, no repeated API call. PubChem: IUPAC name resolved via InChIKey."
